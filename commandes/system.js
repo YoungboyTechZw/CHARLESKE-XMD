@@ -254,7 +254,7 @@ zokou({
 
 zokou(
   {
-    nomCom: 'ping',
+    nomCom: 'ping1',
     aliases: ['speed', 'latency'],
     desc: 'To check bot response time',
     categorie: 'system', // Fixed the typo here (Categorie -> categorie)
@@ -367,7 +367,7 @@ zokou({
         `https://api.heroku.com/apps/${herokuAppName}/builds`,
         {
           source_blob: {
-            url: "https://github.com/Charleskenya1/CHARLESKE-VMD/tarball/main",
+            url: "https://github.com/Charleskenya1/CHARLESKE-XMD/tarball/main",
           },
         },
         {

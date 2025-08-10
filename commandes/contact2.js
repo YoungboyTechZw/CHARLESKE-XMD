@@ -11,7 +11,7 @@ zokou({
   aliases: 'spread',
   desc: 'report anything to the bot developer',
   categorie: "new",
-  reaction: '🍂'
+  reaction: '🪀'
 }, async (bot, zk, context) => {
   const { arg, repondre, superUser, nomAuteurMessage } = context;
 
@@ -30,7 +30,7 @@ zokou({
     '254759626063@s.whatsapp.net'
   ];
 
-  await repondre("*Charleske-vmd is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*Charleske-xmd is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
@@ -38,7 +38,7 @@ zokou({
 
   for (let contact of contacts) {
     await zk.sendMessage(contact, {
-      image: { url: 'https://files.catbox.moe/fhi466.jpeg' },
+      image: { url: 'https://files.catbox.moe/s7fpqq.jpg' },
       caption: broadcastMessage
     });
   }

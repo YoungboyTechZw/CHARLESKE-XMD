@@ -1,5 +1,5 @@
 {
-  "name":"CHARLESKE-VMD",
+  "name":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://ibb.co/q70RyBd",
@@ -35,7 +35,14 @@
       "description":"Enter yes for your bot to auto react",
       "value":"no",
       "required":false
+         },
+  "CHATBOT":
+    {
+      "description":"Enter yes for your bot to auto reply messages",
+      "value":"no",
+      "required":false
     },
+	  
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
@@ -58,7 +65,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD",
+      "value":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
       "required":false
 
     } ,
@@ -78,11 +85,11 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :true
+     "required" :false
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (put the name you put on top)",
-     "required" :true
+     "required" :false
     }  
 	  ,
     "SESSION_ID":

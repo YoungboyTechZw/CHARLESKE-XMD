@@ -1,4 +1,4 @@
-<a href="https://gig.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=CHARLESKE-VMD" alt="Typing SVG" />
+<a href="https://gig.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=CHARLESKE-XMD" alt="Typing SVG" />
 
 <p align="center">  
   <a href="https://files.catbox.moe/xv5h54.jpg">
@@ -30,6 +30,20 @@ VERSION 5.0.1
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=F70094&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey+there!+Welcome+to+CHARLESKE+XMD+Bot+🚀;🔍+The+Official+Repository+💻;✅+Created+in+September+2024;🤖+Powered+by+the+Charleske+Team;🚀+Advanced+Features+%7C+Smooth+Performance+🧠;🔗+Fork+it+and+⭐+Star+the+Project)](https://git.io/typing-svg)
 
+## 🌟 BOT FEATURES
+
+```bash
+✦ Antidelete, Antiviewonce,anticall,antitag,Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
+✦ music loading, autoreaction on status e.t.c
+```
+
+
+- **FOKRK:**  
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-white.svg)](https://github.com/Charleskenya1/CHARLESKE-XMD/fork)
 
 ## 🚀 GET SESSION
 
@@ -53,13 +67,18 @@ VERSION 5.0.1
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=LIST-DEPLOY+NOW;Modern+Bot+DEPLOY+GUIDE" alt="Typing SVG" />
 </p>
 
-### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://charleskenyaverification-1.vercel.app/)
+### 🔹 HEROKU HOSTING
+<p align="center">
+  <a href="https://charleskexmd-verification-code.vercel.app/">
+    <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=white" width="220" height="38.45" />
+  </a> 
 
 ##### 🔹 DEPLOY ON RAILWAY 
-[![Click Here](https://img.shields.io/badge/➤Click-Here-white.svg)](https://railway.com?referralCode=usJR_h)
-  
+<p align="center">
+  <a href="https://railway.com?referralCode=usJR_h">
+    <img src="https://img.shields.io/badge/DEPLOY NOW-railway?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45" />
+  </a>
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS👇
 

@@ -17,7 +17,7 @@ zokou({
   'nomCom': "uptime",
   'desc': "To check runtime",
   'Categorie': "General",
-  'reaction': '🕛',
+  'reaction': '🕖',
   'fromMe': "true"
 }, async (_0x4d1cb2, _0x6e67fd, _0x17c78a) => {
   const {
@@ -28,23 +28,23 @@ zokou({
   try {
     await _0x6e67fd.sendMessage(_0x4d1cb2, {
       'audio': {
-        'url': "https://files.catbox.moe/m1wb.mp3"
+        'url': "https://files.catbox.moe/4vuh8m.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "1203632883046180029@newsletter",
-          'newsletterName': "CHARLESKE-VMD",
+          'newsletterJid': "120363351653122969@newsletter",
+          'newsletterName': "CHARLESKE-XMD",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
         'externalAdReply': {
           'title': "Bot Runtime",
           'body': " Uptime: " + runtime(process.uptime()),
-          'thumbnailUrl': "https://files.catbox.moe/xtqnme.jpg",
-          'sourceUrl': "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
+          'thumbnailUrl': "https://files.catbox.moe/s7fpqq.jpg",
+          'sourceUrl': "",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
         }

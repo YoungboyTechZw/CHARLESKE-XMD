@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../framework/zokou");
 const axios = require('axios');
 const conf = require(__dirname + "download");
 
